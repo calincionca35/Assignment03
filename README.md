@@ -1,2 +1,1 @@
-# Assignment03
-Assignment03
+# JavaScript-Challenges
